@@ -36,25 +36,9 @@ InfinAngle 是一支以 **驻场交付** 为核心工作方式的 AI Agent 团�
 <tr>
 <td width="50%" valign="top">
 
-### [infinAngle-offical](https://github.com/infinAngle/infinAngle-offical)
-InfinAngle 品牌官网。Next.js 15 + GSAP，编辑风格视觉设计。
-`Next.js` `React` `GSAP` `TypeScript`
-
-</td>
-<td width="50%" valign="top">
-
 ### [coPlay](https://github.com/infinAngle/coPlay)
 Agent Intelligence OS —— Agent 运行与协作平台。
 `TanStack Start` `Cloudflare Workers` `Supabase`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [dd-tech](https://github.com/infinAngle/dd-tech)
-每日追踪 Agent / 前端 / 后端 的高信噪比技术内容，由 Claude routine 自动生成。
-`Claude` `Cloudflare Pages` `Automation`
 
 </td>
 <td width="50%" valign="top">
@@ -62,21 +46,6 @@ Agent Intelligence OS —— Agent 运行与协作平台。
 ### [grillCo](https://github.com/infinAngle/grillCo)
 将聊天记录与文本转化为清晰的工作流图谱。
 `Workflow` `NLP` `Visualization`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [fde-playground](https://github.com/infinAngle/fde-playground)
-HATCH FDE 货代实战擂台 —— 把真实驻场项目压成可玩的像素办公室。
-`Game` `FDE` `Requirements`
-
-</td>
-<td width="50%" valign="top">
-
-### 更多项目
-持续在 `qidian` / `zhizi` / `qdd-demo` 等方向落地中。
 
 </td>
 </tr>
