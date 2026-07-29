@@ -52,13 +52,6 @@ Agent Intelligence OS —— Agent 运行与协作平台。
 <tr>
 <td width="50%" valign="top">
 
-### [dd-tech](https://github.com/infinAngle/dd-tech)
-每日追踪 Agent / 前端 / 后端 的高信噪比技术内容，由 Claude routine 自动生成。
-`Claude` `Cloudflare Pages` `Automation`
-
-</td>
-<td width="50%" valign="top">
-
 ### [grillCo](https://github.com/infinAngle/grillCo)
 将聊天记录与文本转化为清晰的工作流图谱。
 `Workflow` `NLP` `Visualization`
