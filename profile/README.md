@@ -32,20 +32,22 @@ InfinAngle 是一支以 **驻场交付** 为核心工作方式的 AI Agent 团�
 
 ## 代表项目
 
+我们的两条主线互为一体两面：**grillCo 挖掘企业当下问题，coPlay 生成对应的 AI 落地方案**。
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [coPlay](https://github.com/infinAngle/coPlay)
-Agent Intelligence OS —— Agent 运行与协作平台。
-`TanStack Start` `Cloudflare Workers` `Supabase`
+### [grillCo](https://github.com/infinAngle/grillCo)
+**企业现状挖掘器** —— 从工作流、岗位、组织协作、数字化现状四面切入，把访谈与真实痛点结构化落地。
+`Enterprise Discovery` `Workflow` `Next.js`
 
 </td>
 <td width="50%" valign="top">
 
-### [grillCo](https://github.com/infinAngle/grillCo)
-将聊天记录与文本转化为清晰的工作流图谱。
-`Workflow` `NLP` `Visualization`
+### [coPlay](https://github.com/infinAngle/coPlay)
+**AI 落地方案生成器** —— 持续沉淀前沿 AI 技术与实践，为企业当下的问题实时输出可用的技术方案。
+`AI Solutions` `Agent` `TanStack Start`
 
 </td>
 </tr>
